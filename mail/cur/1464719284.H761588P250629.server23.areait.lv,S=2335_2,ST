@@ -1,0 +1,68 @@
+Return-path: <>
+Envelope-to: lnsjauni@server23.areait.lv
+Delivery-date: Tue, 31 May 2016 21:28:04 +0300
+Received: from mailnull by server23.areait.lv with local (Exim 4.87)
+	id 1b7oOa-0013CF-MS
+	for lnsjauni@server23.areait.lv; Tue, 31 May 2016 21:28:04 +0300
+X-Failed-Recipients: admin@lnsjauniesucentrs.lv
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server23.areait.lv>
+To: lnsjauni@server23.areait.lv
+Content-Type: multipart/report; report-type=delivery-status; boundary=1464719284-eximdsn-799384264
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1b7oOa-0013CF-MS@server23.areait.lv>
+Date: Tue, 31 May 2016 21:28:04 +0300
+
+--1464719284-eximdsn-799384264
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@lnsjauniesucentrs.lv
+    No Such User Here
+
+--1464719284-eximdsn-799384264
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server23.areait.lv
+
+Action: failed
+Final-Recipient: rfc822;admin@lnsjauniesucentrs.lv
+Status: 5.0.0
+
+--1464719284-eximdsn-799384264
+Content-type: message/rfc822
+
+Return-path: <lnsjauni@server23.areait.lv>
+Received: from lnsjauni by server23.areait.lv with local (Exim 4.87)
+	(envelope-from <lnsjauni@server23.areait.lv>)
+	id 1b7oOa-0013C0-Gl
+	for admin@lnsjauniesucentrs.lv; Tue, 31 May 2016 21:28:04 +0300
+To: admin@lnsjauniesucentrs.lv
+Subject: =?UTF-8?Q?LNS_Jaunie=C5=A1u_centrs_"dfgsdfgsdfbsfbsetbes"?=
+X-PHP-Script: lnsjauniesucentrs.lv/index.php for 91.105.124.64
+Date: Tue, 31 May 2016 18:28:04 +0000
+From: =?UTF-8?Q?Kristaps_Legzdi=C5=86=C5=A1?= <admin@lnsjauniesucentrs.lv>
+Message-ID: <56a99e5a075539bfdce134554c0e4ac2@lnsjauniesucentrs.lv>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+X-WPCF7-Content-Type: text/plain
+Reply-To: Krox2008@inbox.lv
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+From: Kristaps Legzdiņš <Krox2008@inbox.lv>
+Subject: dfgsdfgsdfbsfbsetbes
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on LNS Jauniešu centrs (http://lnsjauniesucentrs.lv)
+
+
+--1464719284-eximdsn-799384264--

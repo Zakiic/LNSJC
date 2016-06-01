@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	lnsjauni:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2016.05.31.18.36.26;	author lnsjauni;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.05.31.18.36.26;	author lnsjauni;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@jauniesi:x:1777:1776::/home2/lnsjauni/mail/lnsjauniesucentrs.lv/jauniesi:/home2/lnsjauni
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: lnsjauni@server23.areait.lv
+Delivery-date: Wed, 01 Jun 2016 10:29:15 +0300
+Received: from mailnull by server23.areait.lv with local (Exim 4.87)
+	id 1b80aZ-0003py-5C
+	for lnsjauni@server23.areait.lv; Wed, 01 Jun 2016 10:29:15 +0300
+X-Failed-Recipients: admin@lnsjauniesucentrs.lv
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server23.areait.lv>
+To: lnsjauni@server23.areait.lv
+Content-Type: multipart/report; report-type=delivery-status; boundary=1464766155-eximdsn-1283496950
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1b80aZ-0003py-5C@server23.areait.lv>
+Date: Wed, 01 Jun 2016 10:29:15 +0300
+
+--1464766155-eximdsn-1283496950
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@lnsjauniesucentrs.lv
+    No Such User Here"
+
+--1464766155-eximdsn-1283496950
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server23.areait.lv
+
+Action: failed
+Final-Recipient: rfc822;admin@lnsjauniesucentrs.lv
+Status: 5.0.0
+
+--1464766155-eximdsn-1283496950
+Content-type: message/rfc822
+
+Return-path: <lnsjauni@server23.areait.lv>
+Received: from lnsjauni by server23.areait.lv with local (Exim 4.87)
+	(envelope-from <lnsjauni@server23.areait.lv>)
+	id 1b80aZ-0003pi-03
+	for admin@lnsjauniesucentrs.lv; Wed, 01 Jun 2016 10:29:15 +0300
+To: admin@lnsjauniesucentrs.lv
+Subject: =?UTF-8?Q?[LNS_Jaunie=C5=A1u_centrs]_A_new_subscriber_has_(been)_register?=  =?UTF-8?Q?ed!?=
+X-PHP-Script: lnsjauniesucentrs.lv/index.php for 91.105.124.64
+Date: Wed, 1 Jun 2016 07:29:14 +0000
+From: WordPress <wordpress@lnsjauniesucentrs.lv>
+Message-ID: <1ed6f5cb412299e2c2a3f21ac8afb309@lnsjauniesucentrs.lv>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+New subscriber on LNS Jauniešu centrs.<br/><br/>Username:Varis<br/>E-mail:Krox2008@inbox.lv<br/>
+
+
+--1464766155-eximdsn-1283496950--

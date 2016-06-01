@@ -1,0 +1,6 @@
+[31-May-2016 22:17:14 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/lnsjauni/public_html/wp-content/themes/enigma/comments.php on line 31
+[31-May-2016 22:18:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/lnsjauni/public_html/wp-content/themes/enigma/comments.php on line 31
+[31-May-2016 22:48:30 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/lnsjauni/public_html/wp-content/themes/enigma/functions.php on line 241
+[31-May-2016 22:48:35 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/lnsjauni/public_html/wp-content/themes/enigma/functions.php on line 241
+[31-May-2016 22:50:04 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/lnsjauni/public_html/wp-content/themes/enigma/functions.php on line 241
+[31-May-2016 22:50:10 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home/lnsjauni/public_html/wp-content/themes/enigma/functions.php on line 241

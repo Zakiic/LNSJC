@@ -1,0 +1,18 @@
+body.boxed {
+    width: 1230px;
+	box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5) ;
+    -webkit-box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+	-moz-box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+	/*background: url(../../images/bg-patterns/bg_img1.png) repeat;*/
+    margin: 0 auto;
+	/* padding: 0px 20px; */
+}
+
+body.boxed #header .main-header {
+	width:1230px;
+	margin:0 auto;
+}
+.boxed  #enigma_nav_top.affix{
+max-width: 1230px;
+
+}
